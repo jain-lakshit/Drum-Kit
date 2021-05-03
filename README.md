@@ -2,7 +2,7 @@
 > Play the instrument by clicking on their image or pressing their respective keys on keyboard.
 
 ## General info
-
+The kit has 7 instruments, which can be played by either clicking on them or pressing the corresponding keys on keyboard. The kit plays the sound of the instrument being called.
 
 ## Technologies
 * HTML
