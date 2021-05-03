@@ -1,5 +1,5 @@
 # Drum-Kit
-> Plays the instrument by clicking on their image or pressing their respective keys on keyboard.
+> Play the instrument by clicking on their image or pressing their respective keys on keyboard.
 
 ## General info
 
